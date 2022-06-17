@@ -113,6 +113,10 @@ hr{
   bottom: 300px;
 }
 
+.kerrang {
+  padding: 0;
+}
+
 .interests-row {
   width: 50%;
   margin: 50px auto 150px auto;
