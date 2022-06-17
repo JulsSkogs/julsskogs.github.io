@@ -114,7 +114,11 @@ hr{
 }
 
 .kerrang {
-  padding: 0;
+  margin: 0px 0px 0px 2px;
+}
+
+.kerrang:hover {
+  color: #FC997C;
 }
 
 .interests-row {
