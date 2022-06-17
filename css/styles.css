@@ -98,7 +98,7 @@ hr{
 .copyright {
   color: #EAF6F6;
   font-size: 0.75rem;
-  padding: 20px 0px;
+  padding: 20px 0;
 }
 
 .top-cloud {
@@ -113,11 +113,11 @@ hr{
   bottom: 300px;
 }
 
-.kerrang {
-  margin: 0px 0px 0px 2px;
+.body-hyperlinks {
+  margin: 0 0 0 2px;
 }
 
-.kerrang:hover {
+.body-hyperlinks:hover {
   color: #FC997C;
 }
 
@@ -161,6 +161,12 @@ hr{
   width: 25%;
   float:right;
   margin-left: 30px;
+}
+
+.gaming-image {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
 }
 
 .btn {
