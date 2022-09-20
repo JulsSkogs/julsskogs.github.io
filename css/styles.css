@@ -127,46 +127,16 @@ hr{
   text-align: left;
 }
 
-.sports-image {
+.interest-image-left {
   width: 25%;
   float: left;
   margin-right: 30px;
 }
 
-.music-image {
+.interest-image-right {
   width: 25%;
   float: right;
   margin-left: 30px;
-}
-
-.barbell-image {
-  width: 25%;
-  float: left;
-  margin-right: 30px;
-}
-
-.cooking-image {
-  width:25%;
-  float: right;
-  margin-left: 30px;
-}
-
-.gardening-image {
-  width: 25%;
-  float: left;
-  margin-right: 30px;
-}
-
-.coding-image {
-  width: 25%;
-  float: right;
-  margin-left: 30px;
-}
-
-.gaming-image {
-  width: 25%;
-  float: left;
-  margin-right: 30px;
 }
 
 .btn {
