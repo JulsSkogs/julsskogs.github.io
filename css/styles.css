@@ -87,7 +87,8 @@ hr {
 }
 
 .profile-picture {
-  border-radius: 35%;
+  border-radius: 10%;
+  height: 500px;
 }
 
 .contact-me {
